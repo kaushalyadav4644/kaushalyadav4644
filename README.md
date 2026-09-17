@@ -1,141 +1,105 @@
-<h1 align="center">Hi 👋, I'm Kaushal Yadav</h1>
+<!-- ======================= HEADER ======================= -->
+
+<h1 align="center">
+  Hi 👋, I'm Kaushal Yadav
+</h1>
 
 <h3 align="center">
-Computer Science Engineering Student | Aspiring Full-Stack Developer
+  💻 Computer Science Engineering Student | 🚀 Aspiring Full-Stack Developer
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kaushalyadav01">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  <img
+    src="https://github.com/kaushalyadav4644.png"
+    width="150"
+    height="150"
+    style="border-radius: 50%;"
+    alt="Kaushal Yadav"
+  />
+</p>
+
+<p align="center">
+  <a href="https://personal-portfolio-yadav19.vercel.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-blue?style=for-the-badge" />
   </a>
- <a href="https://personal-portfolio-yadav19.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome">
-</a>
+
+  <a href="https://www.linkedin.com/in/kaushalyadav01">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="https://github.com/kaushalyadav4644">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
 </p>
 
 ---
 
+<!-- ======================= ABOUT ======================= -->
+
 ## 👨‍💻 About Me
+
+I'm **Kaushal Yadav**, a Computer Science Engineering student and aspiring
+Full-Stack Developer passionate about building modern, responsive and
+real-world web applications.
 
 - 🎓 Computer Science Engineering Student
 - 💻 Aspiring Full-Stack Developer
-- 🚀 Learning and building applications with the MERN Stack
-- 🌱 Currently improving my React.js and backend development skills
+- 🚀 Learning and building with the MERN Stack
+- ⚛️ Working with React.js and modern frontend technologies
+- 🟢 Building backend applications with Node.js and Express.js
+- 🍃 Working with MongoDB
+- ☕ Practicing Java and Data Structures & Algorithms
 - 📊 Interested in Data Analytics
-- 🧠 Practicing Java and Data Structures & Algorithms
-- 💼 Looking for Internship & Full-Stack Development opportunities
-- ⚡ I enjoy building real-world projects and learning new technologies
+- 🔨 Enjoy building real-world projects
+- 💼 Open to internship and entry-level opportunities
 
 ---
 
+<!-- ======================= TECH STACK ======================= -->
+
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
 </p>
 
-### Frontend
+### ⚛️ Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind" />
 </p>
 
-### Backend
+### 🟢 Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### 🍃 Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-## 🚀 Projects
+<!-- ======================= MERN ======================= -->
 
-### 🏥 Healthcare Management Dashboard
+## 🚀 MERN Stack
 
-Full-stack healthcare management application with modules for:
-
-- Patients
-- Appointments
-- Prescriptions
-- Billing
-- Resources
-- Reports
-- Dashboard Analytics
-
-**Tech:** React.js • Node.js • Express.js • MongoDB
-
----
-
-### 💰 Accounting Dashboard
-
-Accounting application with features for:
-
-- Income & Expenses
-- Invoices
-- Payments
-- GST
-- Dashboard Analytics
-
-**Tech:** React.js • Node.js • MongoDB
-
----
-
-### 🌐 Personal Portfolio
-
-My personal portfolio showcasing my projects, skills and development journey.
-
-🔗 https://kaushalyadav4644.github.io/
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaushalyadav4644&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaushalyadav4644&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalyadav4644&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/kaushalyadav01">
-<img src="https://img.shields.io/badge/LinkedIn-Kaushal%20Yadav-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://kaushalyadav4644.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome">
-</a>
-
-</p>
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+MongoDB
+   ↓
+Express.js
+   ↓
+React.js
+   ↓
+Node.js
