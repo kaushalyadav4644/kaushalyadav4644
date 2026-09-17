@@ -210,16 +210,6 @@ Worked on:
 
 ---
 
-# 🐍 My Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/kaushalyadav4644/kaushalyadav4644/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
