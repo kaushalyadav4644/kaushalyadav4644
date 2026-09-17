@@ -8,9 +8,9 @@ Computer Science Engineering Student | Aspiring Full-Stack Developer
   <a href="https://www.linkedin.com/in/kaushalyadav01">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://kaushalyadav4644.github.io/](https://personal-portfolio-yadav19.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome">
-  </a>
+ <a href="https://personal-portfolio-yadav19.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome">
+</a>
 </p>
 
 ---
