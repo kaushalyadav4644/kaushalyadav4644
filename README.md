@@ -200,28 +200,6 @@ Worked on:
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kaushalyadav4644&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Kaushal's GitHub Stats"
-  />
-</p>
-
----
-
-# 💻 Most Used Languages
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalyadav4644&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"
-    alt="Kaushal's Top Languages"
-  />
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
